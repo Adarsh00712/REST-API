@@ -48,7 +48,7 @@ Dependencies:
 ```
 ***
 Database:
-* Open mongo and mongod on your windows powershell and create a database name mydb1.
+* Open mongo and mongod on your windows powershell and create a database named mydb1.
 
 ### Creating a REST API Project
 ***
@@ -158,7 +158,7 @@ router.put("/:productId",async (req,res) =>{
 ![REST API](https://github.com/Adarsh00712/REST-API/blob/main/Screenshots/3.png)
 
 ***
-![REST API](https://github.com/Adarsh00712/REST-API/blob/main/Screenshots/5.png)
+![REST API](https://github.com/Adarsh00712/REST-API/blob/main/Screenshots/4.png)
 
 ***
 ![REST API](https://github.com/Adarsh00712/REST-API/blob/main/Screenshots/6.png)
